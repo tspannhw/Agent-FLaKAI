@@ -6,6 +6,10 @@ Agents communicating with Kafka protocol and Flink agents.   SQL, Python, Java.
 
 agent flakai.  the super cat with squirrel rider
 
+#### Interesting
+
+* https://github.com/hkhajgiwale/real-time-threat-analysis-kafka-mistral7b-qdrant-gradio?source=post_page-----c9c44c94413b--------------------------------
+* 
 #### The List
 * https://agents.cs.princeton.edu/
 * https://github.com/vanna-ai/vanna
