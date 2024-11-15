@@ -9,7 +9,15 @@ agent flakai.  the super cat with squirrel rider
 #### Interesting
 
 * https://github.com/hkhajgiwale/real-time-threat-analysis-kafka-mistral7b-qdrant-gradio?source=post_page-----c9c44c94413b--------------------------------
-* 
+https://github.com/Project-MONAI/MONAI
+
+https://github.com/microsoft/TinyTroupe
+
+https://github.com/katanemo/arch
+
+https://huggingface.co/Nexusflow/Athene-V2-Agent
+https://huggingface.co/Nexusflow/Athene-V2-Agent/blob/main/example/vllm_v2_weather_agent.py#L186-L193
+
 #### The List
 * https://agents.cs.princeton.edu/
 * https://github.com/vanna-ai/vanna
